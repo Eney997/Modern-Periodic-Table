@@ -226,6 +226,46 @@ int main()
                 printf("Name : Tin\n");
                 printf("Symbol : Sn\n");
                 printf("Automic Number : 50\n");
+            }else if(a==51){
+                printf("Name : Antimony\n");
+                printf("Symbol : Sb\n");
+                printf("Automic Number : 51\n");
+            }else if(a==52){
+                printf("Name : Tellurium\n");
+                printf("Symbol : Te\n");
+                printf("Automic Number : 53\n");
+            }else if(a==53){
+                printf("Name : Iodine\n");
+                printf("Symbol : I\n");
+                printf("Automic Number : 53\n");
+            }else if(a==54){
+                printf("Name : Xenon\n");
+                printf("Symbol : Xe\n");
+                printf("Automic Number : 54\n");
+            }else if(a==55){
+                printf("Name : Caesium\n");
+                printf("Symbol : Cs\n");
+                printf("Automic Number : 55\n");
+            }else if(a==56){
+                printf("Name : Barium\n");
+                printf("Symbol : Ba\n");
+                printf("Automic Number : 56\n");
+            }else if(a==57){
+                printf("Name : Lanthanum\n");
+                printf("Symbol : La\n");
+                printf("Automic Number : 57\n");
+            }else if(a==58){
+                printf("Name : Cerium\n");
+                printf("Symbol : Ce\n");
+                printf("Automic Number : 58\n");
+            }else if(a==59){
+                printf("Name : Praseodymium\n");
+                printf("Symbol : Pr\n");
+                printf("Automic Number : 59\n");
+            }else if(a==60){
+                printf("Name : Neodymium\n");
+                printf("Symbol : Nd\n");
+                printf("Automic Number : 60\n");
             }
         }
     }else if(n==2){
