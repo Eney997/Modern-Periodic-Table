@@ -130,6 +130,102 @@ int main()
                 printf("Name : Iron\n");
                 printf("Symbol : Fe\n");
                 printf("Automic Number : 26\n");
+            }else if(a==27){
+                printf("Name : Cobalt\n");
+                printf("Symbol : Co\n");
+                printf("Automic Number : 27\n");
+            }else if(a==28){
+                printf("Name : Nickel\n");
+                printf("Symbol : Ni\n");
+                printf("Automic Number : 28\n");
+            }else if(a==29){
+                printf("Name : Copper\n");
+                printf("Symbol : Cu\n");
+                printf("Automic Number : 29\n");
+            }else if(a==30){
+                printf("Name : Zinc\n");
+                printf("Symbol : Zn\n");
+                printf("Automic Number : 30\n");
+            }else if(a==31){
+                printf("Name : Gallium\n");
+                printf("Symbol : Ga\n");
+                printf("Automic Number : 31\n");
+            }else if(a==32){
+                printf("Name : germanium\n");
+                printf("Symbol : Ge\n");
+                printf("Automic Number : 32\n");
+            }else if(a==33){
+                printf("Name : Arsenic\n");
+                printf("Symbol : As\n");
+                printf("Automic Number : 33\n");
+            }else if(a==34){
+                printf("Name : Selenium\n");
+                printf("Symbol : Se\n");
+                printf("Automic Number : 34\n");
+            }else if(a==35){
+                printf("Name : Bromine\n");
+                printf("Symbol : Br\n");
+                printf("Automic Number : 35\n");
+            }else if(a==36){
+                printf("Name : Krypton\n");
+                printf("Symbol : Kr\n");
+                printf("Automic Number : 36\n");
+            }else if(a==37){
+                printf("Name : Rubidium\n");
+                printf("Symbol : Rb\n");
+                printf("Automic Number : 37\n");
+            }else if(a==38){
+                printf("Name : Strontium\n");
+                printf("Symbol : Sr\n");
+                printf("Automic Number : 38\n");
+            }else if(a==39){
+                printf("Name : Yttrium\n");
+                printf("Symbol : Y\n");
+                printf("Automic Number : 39\n");
+            }else if(a==40){
+                printf("Name : Zirconium\n");
+                printf("Symbol : Zr\n");
+                printf("Automic Number : 40\n");
+            }else if(a==41){
+                printf("Name : Biobium\n");
+                printf("Symbol : Nb\n");
+                printf("Automic Number : 41\n");
+            }else if(a==42){
+                printf("Name : Molybdenum\n");
+                printf("Symbol : Mb\n");
+                printf("Automic Number : 42\n");
+            }else if(a==43){
+                printf("Name : Technetium\n");
+                printf("Symbol : Tc\n");
+                printf("Automic Number : 43\n");
+            }else if(a==44){
+                printf("Name : Ruthenium\n");
+                printf("Symbol : Ru\n");
+                printf("Automic Number : 44\n");
+            }else if(a==45){
+                printf("Name : Rhodium\n");
+                printf("Symbol : Rh\n");
+                printf("Automic Number : 45\n");
+            }else if(a==46){
+                printf("Name : Palladium\n");
+                printf("Symbol : Pd\n");
+                printf("Automic Number : 46\n");
+            }else if(a==47){
+                printf("Name : Silver\n");
+                printf("Symbol : Ag\n");
+                printf("Automic Number : 47\n");
+            }else if(a==48){
+                printf("Name : Cadmium\n");
+                printf("Symbol : Cd\n");
+                printf("Automic Number : 48\n");
+            }else if(a==49){
+                printf("Name : Indium\n");
+                printf("Symbol : In\n");
+                printf("Automic Number : 49\n");
+            }else if(a==50){
+                printf("Name : Tin\n");
+                printf("Symbol : Sn\n");
+                printf("Automic Number : 50\n");
             }
         }
     }else if(n==2){
