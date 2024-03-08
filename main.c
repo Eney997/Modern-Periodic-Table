@@ -266,6 +266,10 @@ int main()
                 printf("Name : Neodymium\n");
                 printf("Symbol : Nd\n");
                 printf("Automic Number : 60\n");
+            }else if(a==61){
+                printf("Name : Promethium\n");
+                printf("Symbol : Pm\n");
+                printf("Automic Number : 61\n");
             }
         }
     }else if(n==2){
