@@ -270,6 +270,234 @@ int main()
                 printf("Name : Promethium\n");
                 printf("Symbol : Pm\n");
                 printf("Automic Number : 61\n");
+            }else if(a==62){
+                printf("Name : Samarium\n");
+                printf("Symbol : Sm\n");
+                printf("Automic Number : 62\n");
+            }else if(a==63){
+                printf("Name : Europium\n");
+                printf("Symbol : Eu\n");
+                printf("Automic Number : 63\n");
+            }else if(a==64){
+                printf("Name : Gadolininium\n");
+                printf("Symbol : Gd\n");
+                printf("Automic Number : 64\n");
+            }else if(a==65){
+                printf("Name : Terbium\n");
+                printf("Symbol : Tb\n");
+                printf("Automic Number : 65\n");
+            }else if(a==66){
+                printf("Name : Dysprosium\n");
+                printf("Symbol : Dy\n");
+                printf("Automic Number : 66\n");
+            }else if(a==67){
+                printf("Name : Holmium\n");
+                printf("Symbol : Ho\n");
+                printf("Automic Number : 67\n");
+            }else if(a==68){
+                printf("Name : Erbium\n");
+                printf("Symbol : Er\n");
+                printf("Automic Number : 68\n");
+            }else if(a==69){
+                printf("Name : Thulium\n");
+                printf("Symbol : Tm\n");
+                printf("Automic Number : 69\n");
+            }else if(a==70){
+                printf("Name : Ytterbium\n");
+                printf("Symbol : Yb\n");
+                printf("Automic Number : 70\n");
+            }else if(a==71){
+                printf("Name : Lutetium\n");
+                printf("Symbol : Lu\n");
+                printf("Automic Number : 71\n");
+            }else if(a==72){
+                printf("Name : Hafnium\n");
+                printf("Symbol : Hf\n");
+                printf("Automic Number : 72\n");
+            }else if(a==73){
+                printf("Name : Tantalum\n");
+                printf("Symbol : Ta\n");
+                printf("Automic Number : 73\n");
+            }else if(a==74){
+                printf("Name : Tungsten\n");
+                printf("Symbol : W\n");
+                printf("Automic Number : 74\n");
+            }else if(a==75){
+                printf("Name : Rhenium\n");
+                printf("Symbol : Re\n");
+                printf("Automic Number : 75\n");
+            }else if(a==76){
+                printf("Name : Osmium\n");
+                printf("Symbol : Os\n");
+                printf("Automic Number : 76\n");
+            }else if(a==77){
+                printf("Name : Iridium\n");
+                printf("Symbol : Ir\n");
+                printf("Automic Number : 77\n");
+            }else if(a==78){
+                printf("Name : Platinum\n");
+                printf("Symbol : Pt\n");
+                printf("Automic Number : 78\n");
+            }else if(a==79){
+                printf("Name : Gold\n");
+                printf("Symbol : Au\n");
+                printf("Automic Number : 79\n");
+            }else if(a==80){
+                printf("Name : Mercury\n");
+                printf("Symbol : Hg\n");
+                printf("Automic Number : 80\n");
+            }else if(a==81){
+                printf("Name : Thalium\n");
+                printf("Symbol : Ti\n");
+                printf("Automic Number : 81\n");
+            }else if(a==82){
+                printf("Name : Lead\n");
+                printf("Symbol : Pb\n");
+                printf("Automic Number : 82\n");
+            }else if(a==83){
+                printf("Name : Bismuth\n");
+                printf("Symbol : Bi\n");
+                printf("Automic Number : 83\n");
+            }else if(a==84){
+                printf("Name : Polonium\n");
+                printf("Symbol : Po\n");
+                printf("Automic Number : 84\n");
+            }else if(a==85){
+                printf("Name : Astatine\n");
+                printf("Symbol : At\n");
+                printf("Automic Number : 85\n");
+            }else if(a==86){
+                printf("Name : Radon\n");
+                printf("Symbol : Rn\n");
+                printf("Automic Number : 86\n");
+            }else if(a==87){
+                printf("Name : Franciu\n");
+                printf("Symbol : Fr\n");
+                printf("Automic Number : 87\n");
+            }else if(a==88){
+                printf("Name : Radium\n");
+                printf("Symbol : Ra\n");
+                printf("Automic Number : 88\n");
+            }else if(a==89){
+                printf("Name : Actinium\n");
+                printf("Symbol : Ac\n");
+                printf("Automic Number : 89\n");
+            }else if(a==90){
+                printf("Name : Thorium\n");
+                printf("Symbol : Th\n");
+                printf("Automic Number : 90\n");
+            }else if(a==91){
+                printf("Name : Protactinium\n");
+                printf("Symbol : Pa\n");
+                printf("Automic Number : 91\n");
+            }else if(a==92){
+                printf("Name : Uranium\n");
+                printf("Symbol : U\n");
+                printf("Automic Number : 92\n");
+            }else if(a==93){
+                printf("Name : Neptunium\n");
+                printf("Symbol : Np\n");
+                printf("Automic Number : 93\n");
+            }else if(a==94){
+                printf("Name : Plutonium\n");
+                printf("Symbol : Pu\n");
+                printf("Automic Number : 94\n");
+            }else if(a==95){
+                printf("Name : Americium\n");
+                printf("Symbol : Am\n");
+                printf("Automic Number : 95\n");
+            }else if(a==96){
+                printf("Name : Curium\n");
+                printf("Symbol : Cm\n");
+                printf("Automic Number : 96\n");
+            }else if(a==97){
+                printf("Name : Berkelium\n");
+                printf("Symbol : Bk\n");
+                printf("Automic Number : 97\n");
+            }else if(a==98){
+                printf("Name : Californiu\n");
+                printf("Symbol : Cf\n");
+                printf("Automic Number : 98\n");
+            }else if(a==99){
+                printf("Name : Einsteinium\n");
+                printf("Symbol : Es\n");
+                printf("Automic Number : 99\n");
+            }else if(a==100){
+                printf("Name : Fermium\n");
+                printf("Symbol : Fm\n");
+                printf("Automic Number : 100\n");
+            }else if(a==101){
+                printf("Name : Mendelevium\n");
+                printf("Symbol : Md\n");
+                printf("Automic Number : 101\n");
+            }else if(a==102){
+                printf("Name : Nobelium\n");
+                printf("Symbol : Nb\n");
+                printf("Automic Number : 102\n");
+            }else if(a==103){
+                printf("Name : Lawrencium\n");
+                printf("Symbol : Lr\n");
+                printf("Automic Number : 103\n");
+            }else if(a==104){
+                printf("Name : Rutherfordium\n");
+                printf("Symbol : Rf\n");
+                printf("Automic Number : 104\n");
+            }else if(a==105){
+                printf("Name : Dubnium\n");
+                printf("Symbol : Db\n");
+                printf("Automic Number : 105\n");
+            }else if(a==106){
+                printf("Name : Seaborgium\n");
+                printf("Symbol : Sg\n");
+                printf("Automic Number : 106\n");
+            }else if(a==107){
+                printf("Name : Borhium\n");
+                printf("Symbol : Bh\n");
+                printf("Automic Number : 107\n");
+            }else if(a==108){
+                printf("Name : Hassium\n");
+                printf("Symbol : Hs\n");
+                printf("Automic Number : 108\n");
+            }else if(a==109){
+                printf("Name : Meitnerium\n");
+                printf("Symbol : Mt\n");
+                printf("Automic Number : 109\n");
+            }else if(a==110){
+                printf("Name : Darmshtadium\n");
+                printf("Symbol : Ds\n");
+                printf("Automic Number : 110\n");
+            }else if(a==111){
+                printf("Name : Roentgenium\n");
+                printf("Symbol : Rg\n");
+                printf("Automic Number : 111\n");
+            }else if(a==112){
+                printf("Name : Copenicium\n");
+                printf("Symbol : Cn\n");
+                printf("Automic Number : 112\n");
+            }else if(a==113){
+                printf("Name : Nihonium\n");
+                printf("Symbol : Nh\n");
+                printf("Automic Number : 113\n");
+            }else if(a==114){
+                printf("Name : Flerovium\n");
+                printf("Symbol : Pl\n");
+                printf("Automic Number : 114\n");
+            }else if(a==115){
+                printf("Name : MoscoviumYleebi\n");
+                printf("Symbol : Mc\n");
+                printf("Automic Number : 115\n");
+            }else if(a==116){
+                printf("Name : Livermorium\n");
+                printf("Symbol : Lv\n");
+                printf("Automic Number : 116\n");
+            }else if(a==117){
+                printf("Name : Tennessine\n");
+                printf("Symbol : Ts\n");
+                printf("Automic Number : 117\n");
+            }else if (a==118){
+                printf("Name : Oganesson\n");
+                printf("Symbol : Og\n");
+                printf("Automic Number : 118\n");1
             }
         }
     }else if(n==2){
