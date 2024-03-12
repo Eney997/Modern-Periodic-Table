@@ -9,6 +9,8 @@ int main()
     int Exit;
     int Exi;
 
+    //here we go
+
     printf("Welcome to Modern Periodic Table\n\n");
 
     printf("> Enter 1 to know about an element\n\n");
@@ -497,7 +499,7 @@ int main()
             }else if (a==118){
                 printf("Name : Oganesson\n");
                 printf("Symbol : Og\n");
-                printf("Automic Number : 118\n");1
+                printf("Automic Number : 118\n");
             }
         }
     }else if(n==2){
