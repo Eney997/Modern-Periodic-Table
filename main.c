@@ -10,6 +10,7 @@ int main()
     int Exi;
 
     //here we go
+    // need to change some lines down
 
     printf("Welcome to Modern Periodic Table\n\n");
 
